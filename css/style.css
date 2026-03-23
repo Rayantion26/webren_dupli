@@ -1,5 +1,6 @@
 /* ── Theme Variables (set by JS from config) ─────────────────────────── */
 :root {
+  --outer-nav-h: 0px;
   --color-primary: #0D9488;
   --color-accent: #7C3AED;
   --color-bg: #FAFAFA;
